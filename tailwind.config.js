@@ -10,6 +10,11 @@ export default {
           dark: "hsl(241, 81%, 54%)",
         },
         "violet-blue": "hsla(256, 72%, 46%, 1)",
+        "dark-blue": "hsl(224, 30%, 27%)",
+        "light-red": {
+          default: "hsl(0, 100%, 96%)",
+          dark: "hsl(0, 100%, 27%)",
+        },
       },
     },
   },
